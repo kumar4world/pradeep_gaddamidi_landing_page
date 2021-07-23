@@ -1,0 +1,49 @@
+#header{
+    background-color: #ecba81;
+}
+#header-img{
+    height: 100px;
+}
+#video{
+    width: 820;
+    height: 54500;
+
+}
+.sac{
+    background-color: #95beb4;
+    color: rgb(16, 24, 99);
+    border-radius: 8px;
+    border-style:double;
+}
+.san{
+    background-color: #ddb6a7;
+    color: rgb(13, 17, 59);
+    border-radius: 8px;
+    border-style:double;
+
+}
+#form{
+    font-weight: bold;
+     border-radius: 10px;
+}   
+#video:hover {
+    color: blue;
+  }
+  .deals{
+      color: red;
+      background-color: rgb(25, 16, 87);
+  }
+.pai{
+    background-color: burlywood;
+}
+.davis{
+    background-color: rgb(150, 108, 54);
+}
+.nav-link{
+    color:rgb(182, 31, 212);
+}
+#nav-bar{}
+#submit{}
+#email{
+    color: darkgreen;
+}
